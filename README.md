@@ -1,15 +1,19 @@
 # StatusbarTool
 Android状态栏工具类封装
 
-###Usage
+### Usage
 
+```
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
 	}
-  
-  dependencies {
-	        implementation 'com.github.ClayLinW:StatusbarTool:v1.0'
-	}
+}
+
+dependencies {
+	implementation 'com.github.ClayLinW:StatusbarTool:v1.0'
+}
+```
+
+ 
